@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
-<spawnabletypes>
+<types>
     <!-- .308 -->
     <type name="TF_M14_DMR">
         <nominal>2</nominal>
@@ -130,4 +130,4 @@
         <value name="Tier4"/>
     </type>
 
-</spawnabletypes>
+</types>

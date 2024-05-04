@@ -125,7 +125,7 @@
     <value name="Tier3"/>
 </type>
 
-<type name="TF_AKM">
+<type name="TF_AKMN">
     <nominal>1</nominal>
     <lifetime>28800</lifetime>
     <restock>3600</restock>
@@ -137,7 +137,7 @@
     <category name="weapons"/>
     <usage name="ContaminatedArea"/>
 </type>
-<type name="TF_AKMN">
+<type name="TF_AKM">
     <nominal>1</nominal>
     <lifetime>28800</lifetime>
     <restock>3600</restock>
@@ -195,7 +195,7 @@
 </type>
 
 <type name="TF_SVCh">
-    <nominal>3</nominal>
+    <nominal>1</nominal>
     <lifetime>86400</lifetime>
     <restock>86400</restock>
     <min>1</min>

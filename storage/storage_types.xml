@@ -1,0 +1,565 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<types>
+	<!-- PAINEL -->
+    <type name="CH_Box_1"> 
+		<lifetime>7200</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	</type>
+	<!-- GUN RACKS -->
+    <type name="CH_Box_2A">
+		<lifetime>7200</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	</type>
+    <type name="CH_Box_2B">
+		<lifetime>7200</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	</type>
+	<!-- ARMARIOS -->
+    <type name="CH_Box_3">
+		<lifetime>7200</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	</type>
+    <type name="CH_Box_4">
+		<lifetime>7200</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	</type>
+    <type name="CH_Box_5">
+		<lifetime>7200</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	</type>
+	<!-- CAIXAS EM SEQUENCIA -->
+    <type name="CH_Box_6">
+		<lifetime>7200</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	</type>
+    <type name="CH_Box_7">
+		<lifetime>7200</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	</type>
+    <type name="CH_Box_8">
+		<lifetime>7200</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	</type>
+    <type name="CH_Box_9">
+		<lifetime>7200</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	</type>
+    <type name="CH_Box_10">
+		<lifetime>7200</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	</type>
+    <type name="CH_Box_11">
+		<lifetime>7200</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	</type>
+    <type name="CH_Box_12">
+		<lifetime>7200</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	</type>
+    <type name="CH_Box_13">
+		<lifetime>7200</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	</type>
+    <type name="CH_Box_14">
+		<lifetime>7200</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	</type>
+    <type name="CH_Box_15">
+		<lifetime>7200</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	</type>
+    <type name="CH_Box_16">
+		<lifetime>7200</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	</type>
+    <type name="CH_Box_17">
+		<lifetime>7200</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	</type>
+    <type name="CH_Box_18">
+		<lifetime>7200</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	</type>
+    <type name="CH_Box_19">
+		<lifetime>7200</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	</type>
+    <type name="CH_Box_20">
+		<lifetime>7200</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	</type>
+    <type name="CH_Box_21">
+		<lifetime>7200</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	</type>
+    <type name="CH_Box_22">
+		<lifetime>7200</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	</type>
+    <type name="CH_Box_23">
+		<lifetime>7200</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	</type>
+    <type name="CH_Box_24">
+		<lifetime>7200</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	</type>
+    <type name="CH_Box_25">
+		<lifetime>7200</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	</type>
+    <type name="CH_Box_26">
+		<lifetime>7200</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	</type>
+    <type name="CH_Box_27">
+		<lifetime>7200</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	</type>
+    <type name="CH_Box_28">
+		<lifetime>7200</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	</type>
+    <type name="CH_Box_29">
+		<lifetime>7200</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	</type>
+    <type name="CH_Box_30">
+		<lifetime>7200</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	</type>
+    <type name="CH_Box_31">
+		<lifetime>7200</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	</type>
+    <type name="CH_Box_32">
+		<lifetime>7200</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	</type>
+    <type name="CH_Box_33">
+		<lifetime>7200</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	</type>
+    <type name="CH_Box_34">
+		<lifetime>7200</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	</type>
+    <type name="CH_Box_35">
+		<lifetime>7200</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	</type>
+    <type name="CH_Box_36">
+		<lifetime>7200</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	</type>
+    <type name="CH_Box_37">
+		<lifetime>7200</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	</type>
+    <type name="CH_Box_38">
+		<lifetime>7200</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	</type>
+    <type name="CH_Box_39">
+		<lifetime>7200</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	</type>
+    <type name="CH_Box_40">
+		<lifetime>7200</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	</type>
+    <type name="CH_Box_41">
+		<lifetime>7200</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	</type>
+    <type name="CH_Box_42">
+		<lifetime>7200</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	</type>
+    <type name="CH_Box_43">
+		<lifetime>7200</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	</type>
+    <type name="CH_Box_44">
+		<lifetime>7200</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	</type>
+	<!-- BOX MANEQUIM 	-->
+    <type name="CH_BoxMnq">
+		<lifetime>7200</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	</type>
+	<!-- BOX COFRES 	-->
+    <type name="CH_CofreBox01"> <!-- Cofre de Armazenamento - 750 Slots -->
+		<lifetime>7200</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	</type>
+    <type name="CH_CofreBox02"> <!-- Cofre de Armazenamento - 750 Slots -->
+		<lifetime>7200</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	</type>
+    <type name="CH_CofreBox03"> <!-- Cofre de Armazenamento - 750 Slots -->
+		<lifetime>7200</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	</type>
+    <type name="CH_CofreBox04"> <!-- Cofre de Armazenamento - 750 Slots -->
+		<lifetime>7200</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	</type>
+    <type name="CH_CofreBox05"> <!-- Cofre de Armazenamento - 750 Slots -->
+		<lifetime>7200</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	</type>
+    <type name="CH_CofreBox06"> <!-- Cofre de Armazenamento - 500 Slots -->
+		<lifetime>7200</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	</type>
+    <type name="CH_CofreBox07"> <!-- Cofre de Armazenamento - 500 Slots -->
+		<lifetime>7200</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	</type>
+    <type name="CH_CofreBox08"> <!-- Cofre de Armazenamento - 500 Slots -->
+		<lifetime>7200</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	</type>
+    <type name="CH_CofreBox09"> <!-- Cofre de Armazenamento - 1000 Slots -->
+		<lifetime>7200</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	</type>
+    <type name="CH_CofreBox10"> <!-- Cofre de Armazenamento - 1000 Slots -->
+		<lifetime>7200</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	</type>
+<!-- Caixa 500 slots -->
+    <type name="CH_VStorage_Model1">
+		<lifetime>38880000</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	</type>
+    <type name="CH_VStorage_Model1B">
+		<lifetime>38880000</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	</type>
+    <type name="CH_VStorage_Model1C">
+		<lifetime>38880000</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	</type>
+	<!-- Caixa 750 slots -->
+    <type name="CH_VStorage_Model2">
+		<lifetime>38880000</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	</type>
+    <type name="CH_VStorage_Model2B">
+		<lifetime>38880000</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	</type>
+    <type name="CH_VStorage_Model2C">
+		<lifetime>38880000</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	</type>
+	<!-- Caixa 1000 slots -->
+    <type name="CH_VStorage_Model3">
+		<lifetime>38880000</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	</type>
+    <type name="CH_VStorage_Model3B">
+		<lifetime>38880000</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	</type>
+    <type name="CH_VStorage_Model3C">
+		<lifetime>38880000</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	</type>
+	<!-- Caixa 500 slots -->
+    <type name="CH_VStorage_Model4">
+		<lifetime>38880000</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	</type>
+    <type name="CH_VStorage_Model4B">
+		<lifetime>38880000</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	</type>
+    <type name="CH_VStorage_Model4C">
+		<lifetime>38880000</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	</type>
+	<!-- Caixa 500 slots -->
+    <type name="CH_VStorage_Model5">
+		<lifetime>38880000</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	</type>
+    <type name="CH_VStorage_Model5B">
+		<lifetime>38880000</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	</type>
+    <type name="CH_VStorage_Model5C">
+		<lifetime>38880000</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	</type>
+	<!-- Caixa 400 slots -->
+    <type name="CH_VStorage_Model6">
+		<lifetime>38880000</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	</type>
+    <type name="CH_VStorage_Model6B">
+		<lifetime>38880000</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	</type>
+    <type name="CH_VStorage_Model6C">
+		<lifetime>38880000</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	</type>
+	<!-- Caixa 1000 slots -->
+    <type name="CH_VStorage_Model7">
+		<lifetime>38880000</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	</type>
+    <type name="CH_VStorage_Model7B">
+		<lifetime>38880000</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	</type>
+    <type name="CH_VStorage_Model7C">
+		<lifetime>38880000</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	</type>
+	<!-- Caixa 750 slots -->
+    <type name="CH_VStorage_Model8">
+		<lifetime>38880000</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	</type>
+    <type name="CH_VStorage_Model8B">
+		<lifetime>38880000</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	</type>
+    <type name="CH_VStorage_Model8C">
+		<lifetime>38880000</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	</type>
+	<!-- Caixa 500 slots -->
+    <type name="CH_VStorage_Model9">
+		<lifetime>38880000</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	</type>
+    <type name="CH_VStorage_Model9B">
+		<lifetime>38880000</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	</type>
+    <type name="CH_VStorage_Model9C">
+		<lifetime>38880000</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	</type>
+	<!-- Caixa 750 slots -->
+    <type name="CH_VStorage_Model10">
+		<lifetime>38880000</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	</type>
+    <type name="CH_VStorage_Model10B">
+		<lifetime>38880000</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	</type>
+    <type name="CH_VStorage_Model10C">
+		<lifetime>38880000</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	</type>
+	<!-- Caixa 1000 slots + Materiais Construção -->
+    <type name="CH_VStorage_Model11">
+		<lifetime>38880000</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	</type>
+    <type name="CH_VStorage_Model11B">
+		<lifetime>38880000</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	</type>
+    <type name="CH_VStorage_Model11C">
+		<lifetime>38880000</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	</type>
+	<!-- Caixa 500 slots -->
+    <type name="CH_VStorage_Model12">
+		<lifetime>38880000</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	</type>
+    <type name="CH_VStorage_Model12B">
+		<lifetime>38880000</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	</type>
+    <type name="CH_VStorage_Model12C">
+		<lifetime>38880000</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	</type>
+	<!-- Caixa 1000 slots -->
+    <type name="CH_VStorage_Model13">
+		<lifetime>38880000</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	</type>
+    <type name="CH_VStorage_Model13B">
+		<lifetime>38880000</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	</type>
+    <type name="CH_VStorage_Model13C">
+		<lifetime>38880000</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	</type>
+	<!-- Armario Militar 1000 slots + Atachments-->
+    <type name="CH_VStorage_Model14">
+		<lifetime>38880000</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	</type>
+    <type name="CH_VStorage_Model14B">
+		<lifetime>38880000</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	</type>
+    <type name="CH_VStorage_Model14C">
+		<lifetime>38880000</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	</type>
+	<!-- Duplo Gun Hack 1000 slots -->
+    <type name="CH_VStorage_Model15">
+		<lifetime>38880000</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	</type>
+	<!-- Simples Gun Hack 500 slots  -->
+    <type name="CH_VStorage_Model16">
+		<lifetime>38880000</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	</type>
+	<!-- Painel de Armas 1000 slots -->
+    <type name="CH_Painel">
+		<lifetime>38880000</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	</type>
+	<!-- Barril 1000 slots -->
+    <type name="VBarrel_Tools">
+		<lifetime>38880000</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	</type>
+    <type name="VBarrel_Guns">
+		<lifetime>38880000</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	</type>
+    <type name="VBarrel_Clothes">
+		<lifetime>38880000</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	</type>
+    <type name="VBarrel_Food">
+		<lifetime>38880000</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	</type>
+    <type name="VBarrel_Medic">
+		<lifetime>38880000</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	</type>
+	<!-- Bau 1000 slots -->
+    <type name="VChestTools">
+		<lifetime>38880000</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	</type>
+    <type name="VChestGuns">
+		<lifetime>38880000</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	</type>
+    <type name="VChestMedic">
+		<lifetime>38880000</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	</type>
+    <type name="VChestClothes">
+		<lifetime>38880000</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	</type>
+    <type name="VChestFood">
+		<lifetime>38880000</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	</type>
+	<!-- Caixa 1000 slots -->
+    <type name="VCrate_Tools">
+		<lifetime>38880000</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	</type>
+    <type name="VCrate_Clothes">
+		<lifetime>38880000</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	</type>
+    <type name="VCrate_guns">
+		<lifetime>38880000</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	</type>
+    <type name="VCrate_Medic">
+		<lifetime>38880000</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	</type>
+    <type name="VCrate_Food">
+		<lifetime>38880000</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	</type>
+	<!-- Manequim 1000 slots -->
+    <type name="VManequim">
+		<lifetime>38880000</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	</type>
+	<!-- Vanilla Itens -->
+    <type name="Vanilla_CrateV">
+		<lifetime>38880000</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	</type>
+    <type name="Vanilla_SeaChestVS">
+		<lifetime>38880000</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	</type>
+    <type name="Vanilla_Barrel_Green">
+		<lifetime>38880000</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	</type>
+    <type name="Vanilla_Barrel_Yellow">
+		<lifetime>38880000</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	</type>
+    <type name="Vanilla_Barrel_Blue">
+		<lifetime>38880000</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	</type>
+    <type name="Vanilla_Barrel_Red">
+		<lifetime>38880000</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	</type>
+	<!-- Cofres -->
+    <type name="CH_Cofre_0A">
+		<lifetime>38880000</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	</type>
+    <type name="CH_Cofre_0B">
+		<lifetime>38880000</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	</type>
+    <type name="CH_Cofre_0C">
+		<lifetime>38880000</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	</type>
+    <type name="CH_Cofre_01">
+		<lifetime>38880000</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	</type>
+    <type name="CH_Cofre_02">
+		<lifetime>38880000</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	</type>
+    <type name="CH_Cofre_03">
+		<lifetime>38880000</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	</type>
+    <type name="CH_Cofre_04">
+		<lifetime>38880000</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	</type>
+    <type name="CH_Cofre_05">
+		<lifetime>38880000</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	</type>
+    <type name="CH_Cofre_2A">
+		<lifetime>38880000</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	</type>
+    <type name="CH_Cofre_2B">
+		<lifetime>38880000</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	</type>
+
+</types>

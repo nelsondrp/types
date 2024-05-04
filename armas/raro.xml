@@ -1,0 +1,273 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<spawnabletypes>
+<type name="TF_SCAR_L_FDE">
+    <nominal>1</nominal>
+    <lifetime>86400</lifetime>
+    <restock>86400</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    <category name="weapons"/>
+    <usage name="ContaminatedArea"/>
+    <value name="Tier3"/>
+    <value name="Tier4"/>
+</type>
+<type name="TF_SCAR_L_Black">
+    <nominal>1</nominal>
+    <lifetime>86400</lifetime>
+    <restock>86400</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    <category name="weapons"/>
+    <usage name="ContaminatedArea"/>
+    <value name="Tier3"/>
+    <value name="Tier4"/>
+</type>  
+<type name="TF_SCAR_L_CQC_FDE"> 
+    <nominal>1</nominal>
+    <lifetime>86400</lifetime>
+    <restock>86400</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    <category name="weapons"/>
+    <usage name="ContaminatedArea"/>
+    <value name="Tier3"/>
+    <value name="Tier4"/>
+</type>
+<type name="TF_SCAR_L_CQC_Black">
+    <nominal>1</nominal>
+    <lifetime>86400</lifetime>
+    <restock>86400</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    <category name="weapons"/>
+    <usage name="ContaminatedArea"/>
+    <value name="Tier3"/>
+    <value name="Tier4"/>
+</type>
+
+<type name="TF_AK101"><!-- Recommended to remove vanilla AK--> 
+    <nominal>2</nominal>
+    <lifetime>86400</lifetime>
+    <restock>86400</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    <category name="weapons"/>
+    <usage name="Military"/>
+    <value name="Tier4"/>
+</type>
+
+<type name="TF_AK102"><!-- Recommended to remove vanilla AK--> 
+    <nominal>1</nominal>
+    <lifetime>86400</lifetime>
+    <restock>86400</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    <category name="weapons"/>
+    <usage name="Military"/>
+    <value name="Tier4"/>
+</type>
+
+<type name="TF_AK103"><!-- Recommended to remove vanilla AK--> 
+    <nominal>1</nominal>
+    <lifetime>86400</lifetime>
+    <restock>86400</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    <category name="weapons"/>
+    <usage name="ContaminatedArea"/>
+</type>
+<type name="TF_AK104"><!-- Recommended to remove vanilla AK--> 
+    <nominal>1</nominal>
+    <lifetime>86400</lifetime>
+    <restock>86400</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    <category name="weapons"/>
+    <usage name="ContaminatedArea"/>
+</type>
+
+<type name="TF_AK105_Bullpup">
+    <nominal>2</nominal>
+    <lifetime>86400</lifetime>
+    <restock>0</restock>
+    <min>2</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    <category name="weapons"/>
+    <usage name="Military"/>
+    <value name="Tier2"/>
+    <value name="Tier3"/>
+</type>
+
+<type name="TF_AKM">
+    <nominal>1</nominal>
+    <lifetime>28800</lifetime>
+    <restock>3600</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    <category name="weapons"/>
+    <usage name="ContaminatedArea"/>
+</type>
+<type name="TF_AKMN">
+    <nominal>1</nominal>
+    <lifetime>28800</lifetime>
+    <restock>3600</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    <category name="weapons"/>
+    <usage name="ContaminatedArea"/>
+    <usage name="Military"/>
+    <value name="Tier3"/>
+    <value name="Tier4"/>
+</type>
+<type name="TF_M4A1_CQBR"><!-- Recommended to remove vanilla M4--> 
+    <nominal>1</nominal>
+    <lifetime>28800</lifetime>
+    <restock>3600</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    <category name="weapons"/>
+    <usage name="ContaminatedArea"/>
+    <usage name="Military"/>
+    <value name="Tier3"/>
+    <value name="Tier4"/>
+</type>
+<type name="TF_MK47_CQBR">
+    <nominal>1</nominal>
+    <lifetime>86400</lifetime>
+    <restock>86400</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="1"/>
+    <category name="weapons"/>
+    <usage name="Military"/>
+    
+</type>
+<type name="TF_MK47">
+    <nominal>1</nominal>
+    <lifetime>86400</lifetime>
+    <restock>86400</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="1"/>
+    <category name="weapons"/>
+    <usage name="Military"/>
+    <value name="Tier4"/>
+</type>
+
+<type name="TF_SVCh">
+    <nominal>3</nominal>
+    <lifetime>86400</lifetime>
+    <restock>86400</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="1"/>
+    <category name="weapons"/>
+    <usage name="Military"/>
+    <value name="Tier4"/>
+</type>
+
+
+<!-- MAGS -->
+<type name="TF_Mag_SCAR_H_20Rnd_Black">
+    <nominal>3</nominal>
+    <lifetime>86400</lifetime>
+    <restock>86400</restock>
+    <min>2</min>
+    <quantmin>5</quantmin>
+    <quantmax>50</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    <category name="weapons"/>
+    <usage name="Military"/>
+    <usage name="ContaminatedArea"/>
+    <value name="Tier3"/>
+    <value name="Tier4"/>
+</type>
+<type name="TF_Mag_SCAR_H_20Rnd_FDE">
+    <nominal>3</nominal>
+    <lifetime>86400</lifetime>
+    <restock>86400</restock>
+    <min>2</min>
+    <quantmin>5</quantmin>
+    <quantmax>50</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    <category name="weapons"/>
+    <usage name="Military"/>
+    <usage name="ContaminatedArea"/>
+    <value name="Tier3"/>
+    <value name="Tier4"/>
+</type>
+<type name="TF_Mag_M14_20Rnd">
+    <nominal>3</nominal>
+    <lifetime>86400</lifetime>
+    <restock>86400</restock>
+    <min>4</min>
+    <quantmin>20</quantmin>
+    <quantmax>50</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    <category name="weapons"/>
+    <usage name="Military"/>
+    <value name="Tier3"/>
+    <value name="Tier4"/>
+</type>
+<type name="TF_Mag_M14_10Rnd">
+    <nominal>10</nominal>
+    <lifetime>86400</lifetime>
+    <restock>86400</restock>
+    <min>10</min>
+    <quantmin>30</quantmin>
+    <quantmax>70</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    <category name="weapons"/>
+    <usage name="Military"/>
+    <usage name="Hunting"/>
+    <value name="Tier3"/>
+    <value name="Tier4"/>
+</type>
+
+</spawnabletypes>
